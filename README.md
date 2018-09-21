@@ -1,1 +1,3 @@
-# capston1_Project19
+# capstone1-TheProject
+
+Some very basic structure to get started with the game.
